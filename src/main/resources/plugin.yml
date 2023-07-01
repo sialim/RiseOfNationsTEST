@@ -1,0 +1,4 @@
+name: RiseOfNations
+version: '${project.version}'
+main: me.sialim.riseofnations.RiseOfNations
+api-version: '1.19'
